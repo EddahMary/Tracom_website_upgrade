@@ -1,18 +1,13 @@
-import LandingPage from "../components/Landingpage";
+import LandingPage from '../components/LandingPage'
 
 const Home = () =>{
-    return (
-     <>
-     <div style ={
-        {
-            width: '100%',
-            height: '1500px',
-        }
-     }>
+    return(
+        <div className="home">
 
-     <LandingPage />
-     </div>
-     </>
-    );
+          < LandingPage />
+
+        </div>
+    )
 }
+
 export default Home;

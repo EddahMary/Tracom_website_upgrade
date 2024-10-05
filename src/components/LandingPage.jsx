@@ -1,4 +1,5 @@
 import bgImg from "../assets/ai-generated-8846759_1280.jpg"
+
 function LandingPage() {
   return (
     <div
