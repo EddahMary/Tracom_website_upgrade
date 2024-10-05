@@ -1,7 +1,6 @@
 
 function Footer() {
   return (
-    <Footer>
       <div
         className="footerContainer"
         style={{
@@ -103,7 +102,6 @@ function Footer() {
           </div>
         </div>
       </div>
-    </Footer>
   );
 }
 

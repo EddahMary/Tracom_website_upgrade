@@ -81,6 +81,7 @@ const LoginForm = () => {
                 backgroundColor: 'lightblue',
                 borderRadius: '20px',
                 width: '60px',
+                height: '30px',
             }
           }>Login</button>
                 {/* <p><a href="#">Forgot Password?</a></p> */}

@@ -121,6 +121,7 @@ const RegistrationForm = () => {
                 backgroundColor: 'lightblue',
                 borderRadius: '20px',
                 width: '60px',
+                height: '30px',
             }
           }>Register</button>
         </form>

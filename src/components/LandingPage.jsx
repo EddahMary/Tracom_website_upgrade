@@ -11,7 +11,6 @@ function LandingPage() {
         background: "linear-gradient(rgba(8,0,50,0.8))",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        // color: 'whitesmoke',
         display: "flex",
         flexDirection: "column",
       }}
